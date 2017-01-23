@@ -49,7 +49,7 @@ public abstract class CustomEventRewardedVideo {
      * @return the id string for this ad unit with the ad network.
      */
     @NonNull
-    protected abstract String getAdNetworkId();
+    protected abstract String   getAdNetworkId();
 
     /**
      * Called to when the custom event is no longer used. Implementers should cancel any

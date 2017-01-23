@@ -7,6 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ViewBinder {
+
     public final static class Builder {
         private final int layoutId;
         private int titleId;
